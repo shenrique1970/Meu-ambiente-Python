@@ -28,7 +28,9 @@
 
 ### Instala ferramentas como ruff ou pyright globalmente
 ```uv tool install ruff ```
+
 ```uvx ruff ```
+
 ```uv tool uninstall ruff ```
 
 ### Outros comandos
