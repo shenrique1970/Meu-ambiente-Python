@@ -6,36 +6,36 @@
 
 - Resumo:
 ### Cria o projeto completo
-```sh uv init nome-do-projeto ```
+```uv init nome-do-projeto ```
 
 ### Ou inicializa dentro de um projeto existente:
-```sh uv init ```
+```uv init ```
 
 ### Instala Python, cria venv e instala dependências em 1 comando
-```sh uv sync ```
+```uv sync ```
 
 ### Instala pacotes
-```sh uv add requests ruff pyright ```
+```uv add requests ruff pyright ```
 
 ### Remove pacotes
-```sh uv remove requests ```
+```uv remove requests ```
 
 ### Requerimentos via requirements.txt
-```sh uv add -r requirements.txt ```
+```uv add -r requirements.txt ```
 
 ### Executa scripts Python sem ativar venv
-```sh uv run src/main.py ```
+```uv run src/main.py ```
 
 ### Instala ferramentas como ruff ou pyright globalmente
-```sh uv tool install ruff ```
-```sh uvx ruff ```
-```sh uv tool uninstall ruff ```
+```uv tool install ruff ```
+```uvx ruff ```
+```uv tool uninstall ruff ```
 
 ### Outros comandos
-```sh uv python list ```
+```uv python list ```
 
-```sh uv python list ```
+```uv python list ```
 
-```sh uv python install 3.12.10 ```
+```uv python install 3.12.10 ```
 
-```sh uv python pin 3.12.10 ```
+```uv python pin 3.12.10 ```
