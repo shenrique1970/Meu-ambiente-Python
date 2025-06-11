@@ -1,7 +1,7 @@
 # Meu-ambiente-Python
 Área de desenvolvimento python.
 
-### Python e UV.
+### Python e UV - Um pacote Python extremamente rápido e gerenciador de projetos, escrito em Rust...
 [UV](https://docs.astral.sh/uv/getting-started/installation/)
 
 - Resumo:
