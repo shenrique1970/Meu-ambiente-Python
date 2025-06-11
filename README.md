@@ -30,3 +30,12 @@
 ```sh uv tool install ruff ```
 ```sh uvx ruff ```
 ```sh uv tool uninstall ruff ```
+
+### Outros comandos
+```sh uv python list ```
+
+```sh uv python list ```
+
+```sh uv python install 3.12.10 ```
+
+```sh uv python pin 3.12.10 ```
