@@ -1,8 +1,9 @@
 # Meu-ambiente-Python
 Área de desenvolvimento python.
 
-### Python e UV - Um pacote Python extremamente rápido e gerenciador de projetos, escrito em Rust...
-[UV](https://docs.astral.sh/uv/getting-started/installation/)
+## Gerenciando tudo com o uv
+
+[uv](https://docs.astral.sh/uv/getting-started/) é uma ferramenta que promete bastante. Sua intenção é substituir praticamente todas as outras ferramentas: pip, pip-tools, pipx, poetry, pyenv, twine, virtualenv, e outras... Até agora tem cumprido tudo com perfeição. Além disso, é uma ferramenta extremamente rápida, escrita em Rust.
 
 - Resumo:
 ### Cria o projeto completo
