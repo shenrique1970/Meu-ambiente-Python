@@ -30,6 +30,7 @@
 ### Instala ferramentas como ruff ou pyright globalmente
 ```uv tool install ruff ```
 
+
 ```uvx ruff ```
 
 ```uv tool uninstall ruff ```
@@ -42,3 +43,4 @@
 ```uv python install 3.12.10 ```
 
 ```uv python pin 3.12.10 ```
+<img width="1115" height="628" alt="Captura de tela 2025-07-31 170249" src="https://github.com/user-attachments/assets/3a47ad55-eade-4e1e-973b-63f87731403d" />
