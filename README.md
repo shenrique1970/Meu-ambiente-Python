@@ -101,7 +101,7 @@ function runpy { param($file) python $file }
 - Aliases rápidos para Python (py, venv, act, jlab)  
 - Ambientes isolados com venv ou poetry  
 - Perfis no Windows Terminal para alternar entre PowerShell e WSL2  
-`
+
 
 ---
 
