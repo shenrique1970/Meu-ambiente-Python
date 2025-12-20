@@ -101,4 +101,3 @@ function runpy { param($file) python $file }
 
 👉 Esse arquivo .me (ou .md) pode ser usado como guia de setup no seu repositório ou documentação pessoal.  
 
-Quer que eu prepare também um exemplo de settings.json do Windows Terminal já com perfil Python configurado?
