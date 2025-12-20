@@ -16,13 +16,13 @@ pip --version
 ```powershell
 python -m pip install --upgrade pip
 pip install virtualenv
-`
+```
 
 Criar e ativar ambiente virtual:
 `powershell
 python -m venv .venv
 .\.venv\Scripts\activate
-`
+```
 
 ---
 
@@ -30,7 +30,7 @@ python -m venv .venv
 ```powershell
 pip install jupyterlab black flake8 isort
 pip install poetry
-`
+```
 
 ---
 
@@ -38,7 +38,7 @@ pip install poetry
 Abra com:
 ```powershell
 notepad $PROFILE
-`
+```
 
 Cole:
 ```powershell
@@ -77,7 +77,7 @@ Funções personalizadas
 function act { .\.venv\Scripts\activate }
 function jlab { jupyter lab }
 function runpy { param($file) python $file }
-`
+```
 
 ---
 
