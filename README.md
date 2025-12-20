@@ -3,16 +3,17 @@
 🚀 Ambiente PowerShell + Python
 
 1. Instalação do Python
-`powershell
+
+```powershell
 winget install Python.Python.3.12
 python --version
 pip --version
-`
+```
 
 ---
 
 2. Gerenciamento de Pacotes
-`powershell
+```powershell
 python -m pip install --upgrade pip
 pip install virtualenv
 `
@@ -26,7 +27,7 @@ python -m venv .venv
 ---
 
 3. Ferramentas Essenciais
-`powershell
+```powershell
 pip install jupyterlab black flake8 isort
 pip install poetry
 `
@@ -35,12 +36,12 @@ pip install poetry
 
 4. Configuração do PowerShell ($PROFILE)
 Abra com:
-`powershell
+```powershell
 notepad $PROFILE
 `
 
 Cole:
-`powershell
+```powershell
 
 ==============================
 
@@ -99,5 +100,5 @@ function runpy { param($file) python $file }
 
 ---
 
-👉 Esse arquivo .me (ou .md) pode ser usado como guia de setup no seu repositório ou documentação pessoal.  
+👉 Esse arquivo pode ser usado como guia de setup no seu repositório ou documentação pessoal.  
 
