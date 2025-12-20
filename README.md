@@ -13,13 +13,15 @@ pip --version
 ---
 
 2. Gerenciamento de Pacotes
+
 ```powershell
 python -m pip install --upgrade pip
 pip install virtualenv
 ```
 
 Criar e ativar ambiente virtual:
-`powershell
+
+```powershell
 python -m venv .venv
 .\.venv\Scripts\activate
 ```
@@ -27,6 +29,7 @@ python -m venv .venv
 ---
 
 3. Ferramentas Essenciais
+
 ```powershell
 pip install jupyterlab black flake8 isort
 pip install poetry
@@ -36,11 +39,13 @@ pip install poetry
 
 4. Configuração do PowerShell ($PROFILE)
 Abra com:
+
 ```powershell
 notepad $PROFILE
 ```
 
 Cole:
+
 ```powershell
 
 ==============================
