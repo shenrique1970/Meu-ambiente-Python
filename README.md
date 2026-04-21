@@ -31,30 +31,5 @@ python = "3.12"
 ```
 obs: Assim, sempre que entrar na pasta, o mise ativa automaticamente o Python 3.12.
 
-5. Comandos úteis
-Ativar ambiente virtual:
 
-bash
-source .venv/bin/activate
-Rodar JupyterLab:
-
-bash
-jupyter lab
-Formatar código:
-
-bash
-black .
-Lint:
-
-bash
-flake8
-Ordenar imports:
-
-bash
-isort .
-Gerenciar dependências com Poetry:
-
-bash
-poetry init
-poetry add requests
 
